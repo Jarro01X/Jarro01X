@@ -1,5 +1,6 @@
-## Hello!
-This is my repo, where I have my contributions and gadgets.
+### Hello!
+This is my github, where I have my contributions and gadgets.
+
 If would like to learn more about what I do and what I am interested in, please visit [my portfolio website](reyrjarroneto.com)
 
 <!--
