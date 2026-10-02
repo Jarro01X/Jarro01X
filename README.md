@@ -1,8 +1,6 @@
 ### Hello!
 This is my github, where I have my contributions and gadgets.
 
-If you would like to learn more about what I do and what I am interested in, please visit [my portfolio website](reyrjarroneto.com)
-
 Open-Source Contributions:
   - I translated Nuclei's README from English to [Portuguese](https://github.com/projectdiscovery/nuclei/blob/main/README_PT-BR.md)
   - I have added new datasets to Microsoft's [PyRIT](https://github.com/Azure/PyRIT/pull/738#event-16489153630)
